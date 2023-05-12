@@ -1,8 +1,7 @@
 ### Hi there 👋
-  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-leonsieke.vercel.app/api?username=leonsieke&show_icons=true&theme=dark&hide_border=true" />
-  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-leonsieke.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true" />
+  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-leonsieke.vercel.app/api?username=leonsieke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-leonsieke.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   
-
 <!--
 **leonsieke/leonsieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
