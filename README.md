@@ -1,6 +1,6 @@
 ### Hi there 👋
   <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api?username=leonsieke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&hide=mathematica,jupyter%20notebook,tex,gnuplot,shell,cmake,vim%20script,makefile,openedge%20abl&size_weight=0.5&count_weight=0.5" />
+  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&layout=compact&hide=mathematica,jupyter%20notebook,tex,gnuplot,shell,cmake,vim%20script,makefile,openedge%20abl&size_weight=0.5&count_weight=0.5" />
   
 <!--
 **leonsieke/leonsieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
