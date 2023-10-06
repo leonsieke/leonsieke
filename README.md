@@ -1,16 +1,12 @@
-### Hi, I'm Leon Sieke 👋
+Hi, I'm Leon Sieke 👋
 
-#### 🎓 PhD Student in Theoretical Physics at Justus-Liebig-University Giessen
-
-#### 📄 Research interest:
-  Non-Equilibrium Phase Transitions and Critical Dynamics near the QCD Critical Point
-
-#### 💻 Languages I'm currently studying:
+- 🎓 PhD Student in Theoretical Physics at Justus-Liebig-University Giessen
+- 📄 Researching non-equilibrium phase transitions and critical dynamics near the QCD critical point
+- 💻 Languages I'm currently working with:
   ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
   ![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-
-#### ⚡ GitHub stats:
-  <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api?username=leonsieke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+- ⚡ GitHub stats:
+<img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api?username=leonsieke&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   
   <img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&layout=compact&hide=mathematica,jupyter%20notebook,tex,gnuplot,shell,cmake,vim%20script,makefile,openedge%20abl&size_weight=0.5&count_weight=0.5" />
   
