@@ -4,7 +4,7 @@ Hi, I'm Leon Sieke 👋
 
 📄 Researching non-equilibrium phase transitions and critical dynamics near the QCD critical point
   
-<img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&layout=compact&hide=mathematica,jupyter%20notebook,tex,gnuplot,shell,cmake,vim%20script,makefile,openedge%20abl&size_weight=0.9&count_weight=0.1" />
+<img align ="left" alt="Leon's GitHub Stats" src="https://github-readme-stats-beta-lemon-67.vercel.app/api/top-langs/?username=leonsieke&show_icons=true&theme=dark&hide_border=true&layout=compact&hide=mathematica,jupyter%20notebook,tex,gnuplot,shell,cmake,vim%20script,makefile,openedge%20abl&size_weight=0.2&count_weight=0.8" />
   
 <!--
 
